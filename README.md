@@ -1,2 +1,2 @@
 # site_apresentacao
-Site de apresentação desenvolvido em currso.
+Site de apresentação desenvolvido em curso.
